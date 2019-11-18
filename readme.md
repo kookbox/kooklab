@@ -2,6 +2,6 @@
 
 this is a simple readme file
 
-##heading 2
+##heading
 
-This is bound to cause tgrouble!
+Just something going on
